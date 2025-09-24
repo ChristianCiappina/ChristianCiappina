@@ -4,7 +4,7 @@ Sono uno studente di Ingegneria Informatica con una forte passione per la sicure
 
 - 🔭 Attualmente sto finalizzando la mia tesi sul **Red Teaming** di agenti conversazionali basati su LLM.
 - 🌱 Sto approfondendo i temi di **AI Safety**, **Prompt Engineering** e le strategie di difesa per modelli linguistici.
-- 📫 Come raggiungermi: [Linkedin](https://www.linkedin.com/in/christian-ciappina)
+- 📫 **Come raggiungermi:** [**Il mio profilo LinkedIn**](https://www.linkedin.com/in/christian-ciappina)
 
 ---
 
